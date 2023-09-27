@@ -1,4 +1,4 @@
-Hi, this is Veerasai Gadi ❤ x React Js Project 
+Hi, this is Veerasai Gadi ⚡ x React Js Project 
 
 <img src="/images/demo1.png">
 
